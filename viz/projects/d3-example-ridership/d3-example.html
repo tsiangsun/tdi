@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+         /* STYLES MAY ALSO BE INSIDE SEPARATE .CSS FILES */
+         .axis {
+             font: 10px sans-serif;
+         }
+         .axis path,
+         .axis line {
+             fill: none;
+             stroke: #000;
+             shape-rendering: crispEdges;
+         }
+        </style>
+
+        <!-- LOAD D3 SOURCE CODE  -->
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+    </head>
+    <body>
+	<h1>Baltimore transit: average ridership by weekday</h1><br>
+        <script>
+
+         // BEGIN MAIN D3 CODE
+         // define some variables
+         var margin = {top: 20, right: 20, bottom: 70, left: 40},
+             width = 600 - margin.left - margin.right,
+             height = 400 - margin.top - margin.bottom;
+         
+         // define x, y based on its data type
+         // these are functions!
+         var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
+         var y = d3.scale.linear().range([height, 0]);
+         
+         var xAxis = d3.svg.axis()
+		       .scale(x)
+		       .orient("bottom")
+         
+         var yAxis = d3.svg.axis()
+		       .scale(y)
+		       .orient("left")
+		       .ticks(10);
+         
+         // THIS IS THE MAIN D3 CANVAS
+         var svg = d3.select("body").append("svg")
+		     .attr("width", width + margin.left + margin.right)
+		     .attr("height", height + margin.top + margin.bottom)
+		     .append("g")
+		     .attr("transform",
+			   "translate(" + margin.left + "," + margin.top + ")");
+         
+         // THIS IS HOW YOU LOAD EXTERNAL DATA
+         d3.csv("ridership_by_day.csv", function(error, data) {
+             data.forEach(function(d) {
+                 d.value = +d.value;
+             });
+             
+             x.domain(data.map(function(d) { return d.day; }));
+             y.domain([0, d3.max(data, function(d) { return d.value; })]);
+             
+             // Draw the axes on the SVG canvas
+             svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(xAxis);
+             
+             svg.append("g")
+                .attr("class", "y axis")
+                .call(yAxis);
+             
+             // Draw the bars on the SVG canvas using a DATA JOIN
+             svg.selectAll("bar")
+                .data(data)
+                .enter().append("rect")
+                .style("fill", "steelblue")
+                .attr("x", function(d) { return x(d.day); })
+                .attr("width", x.rangeBand())
+                .attr("y", function(d) { return y(d.value); })
+                .attr("height", function(d) { return height - y(d.value); });
+         });
+        </script>
+    </body>
+</html>

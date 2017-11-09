@@ -1,0 +1,5 @@
+This framework comes from:
+http://www.informit.com/articles/article.aspx?p=2017060
+
+Unfortunately, they are using an outmoded API for MR.  More updated code can be found here:
+http://www.valleyprogramming.com/blog/simple-hadoop-mapreduce-tutorial-example-boulder-colorado

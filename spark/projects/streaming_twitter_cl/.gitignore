@@ -1,0 +1,6 @@
+target
+project/project
+project/target
+sbt
+tmptweets*
+model*

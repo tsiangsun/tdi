@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html ng-app>
+
+	<header>
+		<title>Baby Name Popularity</title>
+	</header>
+	<body>
+		<div class="row">
+			<div class="col-sm-10 col-sm-offset-1">
+			<h2>Baby Name Popularity</h2>
+			<p>Total babies with the given name in the decade starting in 2000.</p>
+			</div>
+		</div>
+
+
+		<div id="nameCtrl" ng-controller="NamesCtrl">
+			<div class="row">
+				<div class="col-sm-8 col-lg-10">
+					<div id="chart"><svg></svg></div>
+				</div>
+
+				<div class="col-sm-4 col-lg-2">
+		      <form ng-submit="addName()">
+		        <input type="text" ng-model="newName"
+		               placeholder="name to add">
+		        <input class="btn-primary" type="submit" value="add">
+		      </form>
+
+		      <input class="btn-primary" type="submit" ng-click="clearNames()" value="clear">
+		      <br/><br/>
+		      <ul class="unstyled">
+					  <li ng-repeat="name in names">
+					  	<input type="checkbox" ng-change="render()" ng-model="name.show">
+			        <span>{{ name.name }}</span>
+			      </li>
+		      </ul>
+				</div>
+			</div>
+
+		</div>
+	</body>
+
+	<div>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js" charset="utf-8"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.js"></script>
+		<script src="//d3js.org/d3.v3.js" charset="utf-8"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.js" charset="utf-8"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js" charset="utf-8"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.10/angular.min.js"></script>
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.css">
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.css">
+	</div>
+
+	<style>
+	ul { list-style-type: none; padding: 0px; }
+	#chart { width: 100%; height: 80%;}
+	</style>
+
+	<script> // Angular Code
+	function NamesCtrl($scope) {
+		$scope.names = [
+			{name: "Emily", show: true},
+			{name: "Sarah", show: true}
+		];
+
+		d3.csv("data/birthnames_top_100.csv", function(error, data) {
+			// sum of all births in a decade by name
+			$scope.myData = _.chain(data)
+				.filter(function(d) { return 2000 <= d.year && d.year < 2010; })
+				.groupBy(function(d) { return d.name; })
+				.map(function(elem, name) { return {
+					"label": name,
+					"value": elem.map(function(d) { return parseInt(d.births); })
+									.reduce(function(a, b) { return a + b; })
+				}}).value();
+
+			$scope.render();
+		});
+
+		$scope.nameList = function() {
+			return _.map($scope.names, function(n) {
+				return n.name;
+			})
+		}
+
+		$scope.addName = function() {
+			$scope.names.push({name: $scope.newName, show: true});
+			$scope.newName = "";
+			$scope.render();
+		};
+
+		$scope.clearNames = function() {
+			$scope.names = [];
+			$scope.render();
+		}
+
+		$scope.render = function() {
+			var filteredData = _.filter($scope.myData, function(d) {
+				var activeNames = _.chain($scope.names)
+						.filter(function(n) { return n.show; })
+						.map(function(n) { return n.name; })
+						.value();
+				return _.contains(activeNames, d.label);
+			})
+
+			nv.addGraph(function() {
+				chart = nv.models.discreteBarChart()
+											.x(function(d) { return d.label })
+											.y(function(d) { return d.value })
+								      .staggerLabels(true)    //Too many bars and not enough room? Try staggering labels.
+								      .tooltips(false)        //Don't show tooltips
+								      .showValues(true)       //...instead, show the bar value right on top of each bar.
+								      .transitionDuration(350);
+
+			  d3.select('#chart svg')
+			      .datum([{
+			      	key:"Popular Names",
+			      	values: filteredData
+			     	}]).call(chart);
+		  });
+		}
+	}
+
+	window.addEventListener('resize', function () {
+		d3.select('#chart svg').call(chart);
+	});
+	</script>
+
+
+</html>

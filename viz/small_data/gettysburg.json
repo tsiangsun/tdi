@@ -1,0 +1,2727 @@
+[
+ {
+  "neg": 0.0,
+  "word": "Four",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "score",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "seven",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "years",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "ago",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "our",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "fathers",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "brought",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "forth",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "on",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "this",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "continent",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "new",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nation",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "conceived",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "in",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "Liberty",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicated",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "proposition",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "all",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "men",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "are",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "created",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "equal",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ".\n\n",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "Now",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "are",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "engaged",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "in",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "great",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "civil",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "war",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "testing",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "whether",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nation",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "or",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "any",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nation",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "so",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "conceived",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "so",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicated",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "can",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.375,
+  "word": "long",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.5,
+  "word": "endure",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "We",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "are",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "met",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "on",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "great",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "battle",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": "-",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "field",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "of",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "war",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "We",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "have",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "come",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicate",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "portion",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "of",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "field",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "as",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "final",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "resting",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "place",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "for",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "those",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "who",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "gave",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "their",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "lives",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nation",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.5,
+  "word": "might",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "live",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "It",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "is",
+  "pos": 0.25
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.25,
+  "word": "altogether",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "fitting",
+  "pos": 0.5
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "proper",
+  "pos": 0.75
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "should",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "do",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "this",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": ".\n\n",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "But",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "in",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "larger",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "sense",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "can",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "not",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicate",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "can",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "not",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "consecrate",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "can",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "not",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "hallow",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "this",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "ground",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "The",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "brave",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "men",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "living",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dead",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "who",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "struggled",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "have",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "consecrated",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "it",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "far",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "above",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "our",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "poor",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "power",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "add",
+  "pos": 0.625
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "or",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "detract",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "The",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "world",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "will",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.25,
+  "word": "little",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "note",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "nor",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.375,
+  "word": "long",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "remember",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "what",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "say",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "but",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "it",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "can",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "never",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "forget",
+  "pos": 0.25
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "what",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "they",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "did",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "It",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "is",
+  "pos": 0.25
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "for",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "us",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "living",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.5,
+  "word": "rather",
+  "pos": 0.5
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "be",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicated",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "unfinished",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "work",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "which",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "they",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "who",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "fought",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "have",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "thus",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "far",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "so",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nobly",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "advanced",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ". ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "It",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "is",
+  "pos": 0.25
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.5,
+  "word": "rather",
+  "pos": 0.5
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "for",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "us",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "be",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dedicated",
+  "pos": 0.125
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "great",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "task",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "remaining",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "before",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "us",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "from",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "these",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "honored",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dead",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "take",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "increased",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "devotion",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "to",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "cause",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "for",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "which",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "they",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "gave",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "last",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "full",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "measure",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "of",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.125,
+  "word": "devotion",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "we",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "here",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "highly",
+  "pos": 0.625
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "resolve",
+  "pos": 0.5
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "these",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "dead",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "shall",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "not",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "have",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "died",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "in",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.75,
+  "word": "vain",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "this",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "nation",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "under",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "God",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "shall",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "have",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "a",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "new",
+  "pos": 0.375
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "birth",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "of",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "freedom",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " -- ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "and",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "that",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "government",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "of",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "people",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "by",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "people",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "for",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "people",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ", ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "shall",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.625,
+  "word": "not",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "perish",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "from",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "the",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": " ",
+  "pos": 0
+ },
+ {
+  "neg": 0.0,
+  "word": "earth",
+  "pos": 0.0
+ },
+ {
+  "neg": 0,
+  "word": ".",
+  "pos": 0
+ },
+ {
+  "neg": 0,
+  "word": "",
+  "pos": 0
+ }
+]

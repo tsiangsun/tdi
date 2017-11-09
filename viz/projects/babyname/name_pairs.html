@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+	<header>
+		<title>John vs. Jonathan</title>
+	</header>
+	<body>
+		<div class="col-sm-10 col-sm-offset-1">
+			<h2>Popularity of 'John' vs. 'Jonathan' over time.</h2>
+			<p>This graph shows the popularity of 'John' versus 'Jonathan' as a baby name over time.</p>
+			<div id="chart"><svg></svg></div>
+		</div>
+	</body>
+
+	<div>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js" charset="utf-8"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.js"></script>
+		<script src="//d3js.org/d3.v3.js" charset="utf-8"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.js" charset="utf-8"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js" charset="utf-8"></script>
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.css">
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.15-beta/nv.d3.css">
+	</div>
+
+	<script>
+		var boy_names = ['John', 'Jonathan']; // _.flatten(boy_name_pairs);
+
+		function bindAndRender(myData, maxBirths) {
+			nv.addGraph(function() {
+				chart = nv.models.lineChart()
+											.x(function(d) { return d.year })
+											.y(function(d) { return d.births })
+			                .margin({left: 100})
+			                .useInteractiveGuideline(true)
+			                .transitionDuration(350)
+			                .showLegend(true)
+			                .showYAxis(true)
+			                .showXAxis(true)
+			                .forceY([0, maxBirths]);  // This should happen automatically but for some reason it doesn't
+
+			  chart.xAxis.axisLabel('Year');
+
+			  chart.yAxis.axisLabel("Births");
+
+			  d3.select('#chart svg')    //Select the <svg> element you want to render the chart in.
+			      .datum(myData)         //Populate the <svg> element with chart myData...
+			      .call(chart);          //Finally, render the chart!
+		  });
+		};
+
+		d3.csv("data/birthnames_top_100.csv", function(error, data) {
+			var myData = _.chain(data)
+				.groupBy(function(d) { return d['name']; })
+				.pairs()			// .filter will only return list so must keep as pair of elements
+				.filter(function(pair) {
+					return _(boy_names).contains(pair[0]);
+				}).map(function(pair) {
+					return {
+						key: pair[0],
+						values: _.sortBy(pair[1], function (d) { return d.year })
+					}
+				}).value();
+
+			var maxBirths = _.max(_.map(myData, function(pair) {
+				return _.max(_.map(pair.values, function(d) {
+					return parseInt(d.births)
+				}));
+			}));
+
+			bindAndRender(myData, maxBirths)
+		});
+
+		window.addEventListener('resize', function(event){
+			d3.select('#chart svg')
+					.call(chart);
+		});
+	</script>
+
+	<style>
+	#chart svg { width: 100%; height: 80%;}
+	</style>
+</html>

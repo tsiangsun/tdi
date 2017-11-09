@@ -1,0 +1,25 @@
+One-step jobs MRJob mapper ( key, value  ) Redefine this to define the mapper for a one-step job.
+Yields zero or more tuples of ( out_key, out_value ). Parameters:	key – A value parsed from input. value – A value parsed from input. If you don’t re-define this, your job will have a mapper that simply yields ( key, value ) as-is. 
+By default (if you don’t mess with Protocols): key will be None value will be the raw input line, with newline stripped. out_key and out_value must be JSON-encodable: numeric, unicode, boolean, None, list, or dict whose keys are unicodes. MRJob.reducer(key, values) Re-define this to define the reducer for a one-step job.
+Yields one or more tuples of (out_key, out_value)
+Parameters:	key – A key which was yielded by the mapper value – A generator which yields all values yielded by the mapper which correspond to key.
+By default (if you don’t mess with Protocols): out_key and out_value must be JSON-encodable.
+key and value will have been decoded from JSON (so tuples will become lists). MRJob.combiner(key, values)
+Re-define this to define the combiner for a one-step job.
+Yields one or more tuples of (out_key, out_value)
+Parameters:
+key – A key which was yielded by the mapper
+value – A generator which yields all values yielded by one mapper task/node which correspond to key.
+By default (if you don’t mess with Protocols):
+out_key and out_value must be JSON-encodable.
+key and value will have been decoded from JSON (so tuples will become lists).
+MRJob.mapper_init()
+Re-define this to define an action to run before the mapper processes any input.
+One se for this function is to initialize mapper-specific helper structures.
+Yields one or more tuples of (out_key, out_value).
+By default, out_key and out_value must be JSON-encodable; re-define INTERNAL_PROTOCOL to change this.
+MRJob.mapper_final()
+Re-define this to define an action to run after the mapper reaches the end of input.
+One way to use this is to store a total in an instance variable, and output it after reading all input data. See mrjob.examples for an example.
+Yields one or more tuples of (out_key, out_value).
+By default, out_key and out_value must be JSON-encodable; re-define INTERNAL_PROTOCOL to change this.
